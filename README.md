@@ -1,9 +1,9 @@
-<h1>Hello, my name is Niloy. I am a <a href="linkedin.com/in/niloy-mridul">IT and Cybersecurity Enthusiast</h1>
+<h1>Hello, my name is Niloy. I am a <a href="//linkedin.com/in/niloy-mridul">IT and Cybersecurity Enthusiast</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>VirtualBox (Cybersecurity Practice)</b>
-  - [VirtualBox:PACKET DETECTION & PACKET FLOODING - PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
+  - [VirtualBox: PACKET DETECTION & PACKET FLOODING - PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/niloymridul/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/niloymridul/ticket-lifecycle)
 - <b>Microsoft Azure</b>
