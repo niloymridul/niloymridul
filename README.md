@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/niloymridul/osticket-prereqs)
+- <b>VirtualBox (Cybersecurity Practice)</b>
+  - [VirtualBox:PACKET DETECTION & PACKET FLOODING - PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/niloymridul/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/niloymridul/ticket-lifecycle)
 - <b>Microsoft Azure</b>
