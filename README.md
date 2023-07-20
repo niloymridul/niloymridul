@@ -1,4 +1,4 @@
-<h1>Hello, my name is Niloy. I am a <a href="www.linkedin.com/in/niloy-mridul">IT and Cybersecurity Enthusiast</h1>
+<h1>Hello, my name is Niloy. I am a <a href="linkedin.com/in/niloy-mridul">IT and Cybersecurity Enthusiast</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
