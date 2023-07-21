@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>VirtualBox (Cybersecurity Practice)</b>
-  - [VirtualBox: PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/niloymridul/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/niloymridul/ticket-lifecycle)
+- <b>Packet Flooding & Packet Detection (Cybersecurity Practice)</b>
+  - [Part 1 - VirtualBox - Prerequisite & Installation](https://github.com/niloymridul/virtualbox-prereqs)
+  - [Part 2 - Kali Linux, Nmap, & Wireshark - Packet Detection](https://github.com/niloymridul/klmwdetect)
+  - [Part 3 - Hping3 - Packet Flooding](https://github.com/niloymridul/hpingflood)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/niloymridul/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niloymridul/azure-network-protocols)
