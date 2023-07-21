@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>VirtualBox (Cybersecurity Practice)</b>
-  - [VirtualBox: PACKET DETECTION & PACKET FLOODING - PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
+  - [VirtualBox: PREREQUISITE & INSTALLATION](https://github.com/niloymridul/virtualbox-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/niloymridul/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/niloymridul/ticket-lifecycle)
 - <b>Microsoft Azure</b>
