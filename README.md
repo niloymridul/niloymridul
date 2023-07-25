@@ -6,9 +6,9 @@
   - [Part 1 - VirtualBox - Prerequisite & Installation](https://github.com/niloymridul/virtualbox-prereqs)
   - [Part 2 - Kali Linux, Nmap, & Wireshark - Packet Detection](https://github.com/niloymridul/klmwdetect)
   - [Part 3 - Hping3 - Packet Flooding](https://github.com/niloymridul/hpingflood)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/niloymridul/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niloymridul/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket - Prerequisites & Installation Process](https://github.com/niloymridul/osprereqs)
+  - [osTicket - Set-Up Configuration & Real Life Ticketing Scenarios](https://github.com/niloymridul/osconfig)
 
 <h2>🤳Collaborate with me:</h2>
 
