@@ -9,6 +9,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket - Prerequisites & Installation Process](https://github.com/niloymridul/osprereqs)
   - [osTicket - Set-Up Configuration & Real Life Ticketing Scenarios](https://github.com/niloymridul/osconfig)
+- <b>Virtual Private Networks (Using ProtonVPN)</b>
+  - [Virtual Private Networks Explained and Shown](https://github.com/niloymridul/vpntalked)
 
 <h2>🤳Collaborate with me:</h2>
 
