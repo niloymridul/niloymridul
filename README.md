@@ -12,10 +12,3 @@
 - <b>Virtual Private Networks (Using ProtonVPN)</b>
   - [Virtual Private Networks Explained and Shown](https://github.com/niloymridul/vpntalked)
 
-<h2>🤳Collaborate with me:</h2>
-
-
-[<img align="left" alt="Niloy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/niloy-mridul
-
