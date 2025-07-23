@@ -1,6 +1,12 @@
-<h1>Hello, my name is Niloy. I am a IT and Cybersecurity Enthusiast</h1>
+<h1>Hello, my name is Niloy. I am CS graduate at WGU who enjoys learning about Cybersecurity and IT </h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Here I show my coding projects from 2024 - 2025:</h2>
+  - [Package Routing System Via Python](https://github.com/niloymridul/c950-data-structures-and-alg-II)
+  - [Vacation Website Via Java and Spring Boot](https://github.com/niloymridul/d288-back-end-programming))
+  - [Hotel Website Via Java and Docker](https://github.com/niloymridul/d387-advanced-java)
+
+
+<h2>Here are my IT and Cybesecurity Projects from 2023:</h2>
 
 - <b>Packet Flooding & Packet Detection (Cybersecurity Practice)</b>
   - [Part 1 - VirtualBox - Prerequisite & Installation](https://github.com/niloymridul/virtualbox-prereqs)
@@ -11,4 +17,5 @@
   - [osTicket - Set-Up Configuration & Real Life Ticketing Scenarios](https://github.com/niloymridul/osconfig)
 - <b>Virtual Private Networks (Using ProtonVPN)</b>
   - [Virtual Private Networks Explained and Shown](https://github.com/niloymridul/vpntalked)
+
 
